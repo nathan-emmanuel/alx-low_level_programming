@@ -12,7 +12,7 @@ int main(void)
 {
 	int n = 97;
 
-	for (;n <= 122; n++)
+	for (; n <= 122; n++)
 	{
 		if (n == 'e' || n == 'q')
 			n++;
